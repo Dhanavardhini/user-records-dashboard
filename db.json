@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "id": "1746078717848",
+      "name": "Dhanavardhini A",
+      "email": "dhanavardhini02@gmail.com",
+      "qualification": "B.E",
+      "college": "St.Joseph's College of Engineering & Technology",
+      "percentage": 99
+    },
+    {
+      "id": "1746082171872",
+      "name": "Siva",
+      "email": "siva@gmail.com",
+      "qualification": "B.E",
+      "college": "St.Joseph's College of Engineering & Technology",
+      "percentage": 89
+    },
+    {
+      "id": "1746082190840",
+      "name": "Mahes00",
+      "email": "ammu00@gmail.com",
+      "qualification": "B.E00",
+      "college": "St.Joseph's College of Engineering & Technology00",
+      "percentage": 890000
+    },
+    {
+      "id": "1746083966534",
+      "name": "Harini",
+      "email": "harini@gmail.com",
+      "qualification": "BCA",
+      "college": "college",
+      "percentage": 90
+    }
+  ]
+}
